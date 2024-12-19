@@ -1,0 +1,27 @@
+2024-12-19 09:44:41.122 -05:00 [INF] Now listening on: https://localhost:7038
+2024-12-19 09:44:41.168 -05:00 [INF] Now listening on: http://localhost:5252
+2024-12-19 09:44:41.173 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-19 09:44:41.180 -05:00 [INF] Hosting environment: Development
+2024-12-19 09:44:41.181 -05:00 [INF] Content root path: D:\PROYECTO BG\BACKEND\InventarioBackend
+2024-12-19 09:44:43.998 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7038/swagger/index.html - -
+2024-12-19 09:44:44.618 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7038/swagger/index.html - - - 200 - text/html;charset=utf-8 626.7008ms
+2024-12-19 09:44:44.627 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7038/swagger/swagger-ui.css - -
+2024-12-19 09:44:44.627 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7038/_framework/aspnetcore-browser-refresh.js - -
+2024-12-19 09:44:44.631 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7038/swagger/index.js - -
+2024-12-19 09:44:44.631 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7038/swagger/swagger-ui-standalone-preset.js - -
+2024-12-19 09:44:44.632 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7038/_vs/browserLink - -
+2024-12-19 09:44:44.632 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7038/swagger/index.css - -
+2024-12-19 09:44:44.646 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7038/swagger/swagger-ui-bundle.js - -
+2024-12-19 09:44:44.659 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7038/swagger/index.js - - - 200 - application/javascript;charset=utf-8 28.1863ms
+2024-12-19 09:44:44.695 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7038/_framework/aspnetcore-browser-refresh.js - - - 200 12366 application/javascript;+charset=utf-8 67.2902ms
+2024-12-19 09:44:44.714 -05:00 [INF] The file /index.css was not modified
+2024-12-19 09:44:44.714 -05:00 [INF] The file /swagger-ui-standalone-preset.js was not modified
+2024-12-19 09:44:44.714 -05:00 [INF] The file /swagger-ui.css was not modified
+2024-12-19 09:44:44.723 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7038/swagger/swagger-ui-standalone-preset.js - - - 304 - text/javascript 91.7166ms
+2024-12-19 09:44:44.721 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7038/swagger/index.css - - - 304 - text/css 89.3560ms
+2024-12-19 09:44:44.725 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7038/swagger/swagger-ui.css - - - 304 - text/css 97.6119ms
+2024-12-19 09:44:44.714 -05:00 [INF] The file /swagger-ui-bundle.js was not modified
+2024-12-19 09:44:44.732 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7038/swagger/swagger-ui-bundle.js - - - 304 - text/javascript 87.8847ms
+2024-12-19 09:44:44.862 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7038/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 230.0069ms
+2024-12-19 09:44:45.268 -05:00 [INF] Request starting HTTP/2 GET https://localhost:7038/swagger/v1/swagger.json - -
+2024-12-19 09:44:45.561 -05:00 [INF] Request finished HTTP/2 GET https://localhost:7038/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 292.7746ms
